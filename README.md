@@ -15,3 +15,4 @@ git add . или git add -all - добавление всех файло в ре
 git commit -m "комментарий к коммиту" - сохранение всех изменений в гит
 git push origin main - отправление всех изменений к привязанному GitHub репозиторию
 --testing git
+dop test
